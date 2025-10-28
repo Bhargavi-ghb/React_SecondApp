@@ -1,5 +1,5 @@
-import waterfall from "../assets/waterfalls.webp";
-import waterfall1 from "../assets/waterfall1.webp";
+import waterfall from "../assets/waterfalls.jpeg";
+import waterfall1 from "../assets/waterfalls.jpeg";
 import waterfall2 from "../assets/waterfalls.jpeg";
 
 export default function Images() {
